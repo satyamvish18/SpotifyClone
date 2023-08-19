@@ -1,3 +1,3 @@
 ## spotify Clone
  
-### basic clone of spotify using hTML CSS and JS
+### basic clone of spotify using HTML CSS and JS
